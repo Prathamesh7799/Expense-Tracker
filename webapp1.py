@@ -9,7 +9,7 @@ import database as db
 incomes = ["Salary", "House Rent","Other Income"] 
 expenses = ["Rent", "Utilities", "Groceries", "Car", "Other Expenses", "Loan"]
 currency = "Rs" 
-page_title = "Income and Expense Tracker" 
+page_title = "Income and Expense Tracker by PK" 
 page_icon = ":money_with_wings:" 
 layout = "centered" 
 
